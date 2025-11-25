@@ -32,11 +32,14 @@ Our simulation demonstrates that the FTTM algorithm is significantly more energy
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/fault-tolerant-noc.git
-    cd fault-tolerant-noc
+    git clone https://github.com/Abdullah-Mehmood-242/Fault-Tolerant-NoC-Simulator.git
+    ```
+    **Enter the Directory**:
+    ```bash
+    cd Fault-Tolerant-NoC-Simulator-main/Fault-Tolerant-NoC-Simulator-main/
     ```
 
-2.  **Install dependencies**:
+3.  **Install dependencies**:
     ```bash
     pip install -r requirements.txt
     ```
@@ -88,3 +91,12 @@ python test_suite.py
 
 ## 📜 License
 This project is open-source and available under the MIT License.
+
+## 👥 Credits and Supervision
+
+This project was developed by the following students under academic supervision:
+
+* **Supervisor:** Ms. Adeeba Aslam (Lecturer, The University of Lahore - Sargodha Campus)
+
+* **Developer:** Abdullah Mehmood ([@Abdullah-Mehmood-242](https://github.com/Abdullah-Mehmood-242/))
+* **Developer:** Ammad Younas ([@Ammad-Younas](https://github.com/Ammad-Younas))
